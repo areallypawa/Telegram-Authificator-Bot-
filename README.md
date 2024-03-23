@@ -1,1 +1,1 @@
-# Telegram-Authificator-Bot-
+# Telegram-Authificator-Bot
